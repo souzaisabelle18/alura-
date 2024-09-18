@@ -3,6 +3,8 @@
     --cor-secundaria: rgb(172, 167, 167);
     --cor-botao: rgba(0, 255, 55, 0.733);
     --cor-fundo: black; 
-
-
+}
+body{
+    background-color: var(--cor-fundo);
+    
 }
